@@ -1,3 +1,4 @@
+import { IonicPage } from 'ionic-angular';
 import { IProduct } from './../IProduct';
 import { Component } from '@angular/core';
 
